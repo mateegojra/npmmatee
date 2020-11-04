@@ -1,0 +1,21 @@
+{
+  "name": "matee",
+  "version": "1.0.0",
+  "description": "General Info about my Career and Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "matee",
+    "mateegojra",
+    "fullstack",
+    "web",
+    "developer",
+    "pakistan",
+    "lahore",
+    "punjab"
+  ],
+  "author": "Matee",
+  "license": "ISC"
+}
